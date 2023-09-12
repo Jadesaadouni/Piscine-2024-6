@@ -1,0 +1,42 @@
+[
+    {
+        "month": "Janvier",
+        "region": "Région A",
+        "department": "Département 1",
+        "type": "Maison",
+        "sales": 20,
+        "rooms": 4,
+        "garden_sqm": 200,
+        "value": 300000
+    },
+    {
+        "month": "Février",
+        "region": "Région B",
+        "department": "Département 2",
+        "type": "Appartement",
+        "sales": 15,
+        "rooms": 2,
+        "garden_sqm": null,
+        "value": 200000
+    },
+    {
+        "month": "Janvier",
+        "region": "Région A",
+        "department": "Département 1",
+        "type": "Appartement",
+        "sales": 10,
+        "rooms": 3,
+        "garden_sqm": null,
+        "value": 150000
+    },
+    {
+        "month": "Février",
+        "region": "Région B",
+        "department": "Département 2",
+        "type": "Maison",
+        "sales": 25,
+        "rooms": 5,
+        "garden_sqm": 300,
+        "value": 350000
+    }
+]
